@@ -10,4 +10,4 @@
 
 ### Showcase
 
-![](https://github.com/luislve17/my-frontend-journey/tree/master/Learning_React/02_recipe_app/assets/02_Recipe_App_img.JPG)
+![](https://github.com/luislve17/my-frontend-journey/blob/master/Learning_React/02_recipe_app/assets/02_Recipe_App_img.JPG?raw=true)

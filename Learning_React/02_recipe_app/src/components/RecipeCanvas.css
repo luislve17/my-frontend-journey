@@ -1,0 +1,5 @@
+.recipe-canvas-container {
+  height: calc(100vh);
+  overflow: scroll;
+  width: calc(100vw);
+}

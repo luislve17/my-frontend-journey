@@ -10,4 +10,4 @@
 
 ### Showcase
 
-![](https://github.com/luislve17/my-frontend-journey/tree/master/Learning_React/01_timeline/assets/01_Timeline_imgJPG)
+![](https://github.com/luislve17/my-frontend-journey/blob/master/Learning_React/01_timeline/assets/01_Timeline_img.JPG?raw=true)

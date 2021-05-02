@@ -10,4 +10,4 @@
 
 ### Showcase
 
-![](https://github.com/luislve17/my-frontend-journey/blob/master/Learning_Other/01_pricecard/assets/pricecard.png?raw=true)
+![](https://raw.githubusercontent.com/luislve17/my-frontend-journey/master/Learning_other/01_pricecard/assets/01_pricecard.png)
